@@ -1,0 +1,24 @@
+hheader a:hover,
+header a:focus {
+    background: rgb(4, 214, 214);
+    color: rgb(7, 6, 6);
+}
+
+.banner {
+    background: #2980b2;
+    text-align: center;
+    color: rgb(4, 184, 230);
+    padding-top: 184px;
+    padding-bottom: 184px;
+}
+footer{
+    background:#2980b2
+    padding-top 40px;
+    padding-bottom:40px;
+    color: white;
+    font-size: 24px;
+}
+footer a{
+    color: white;
+    font-size: 20px;
+}
